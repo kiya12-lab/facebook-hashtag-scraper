@@ -1,0 +1,7 @@
+{
+    "base_url": "https://www.facebook.com/hashtag/",
+    "request_timeout": 15,
+    "sleep_between_requests": 1.8,
+    "max_retries": 3,
+    "backoff_factor": 1.5
+}
